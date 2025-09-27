@@ -1,0 +1,2 @@
+C:/Users/Habib/Desktop/Paid Projects/abtraders/android/app/.cxx/Debug/2936x2e3/x86/CMakeFiles/edit_cache.dir
+C:/Users/Habib/Desktop/Paid Projects/abtraders/android/app/.cxx/Debug/2936x2e3/x86/CMakeFiles/rebuild_cache.dir

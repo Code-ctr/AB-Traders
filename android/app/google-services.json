@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017980925778",
+    "project_id": "ab-traders-1bfe4",
+    "storage_bucket": "ab-traders-1bfe4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017980925778:android:f8a04eb0f5e4f66ec3ac8b",
+        "android_client_info": {
+          "package_name": "com.example.abtraders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnHLayE4A3RXQ-mdqzylX82_5MzAAMIVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
